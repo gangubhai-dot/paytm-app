@@ -10,4 +10,5 @@
 .ssh
 **/node_modules/
 .terraform.lock.hcl
-new.txt
+*new.txt
+temp.txt
