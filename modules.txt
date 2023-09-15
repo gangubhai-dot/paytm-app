@@ -1,5 +1,5 @@
+ virtual machine
+ networkwq!
 ec2
 vpc
 sg
-nacl 
-elastic ip
