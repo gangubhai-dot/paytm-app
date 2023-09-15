@@ -1,5 +1,0 @@
-ec2
-vpc
-ami
-sg
-nacl
